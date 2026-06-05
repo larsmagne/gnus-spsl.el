@@ -11,8 +11,8 @@ To use it, put the following in your ~/.gnus.el file:
 
 This will enable two commands in summary buffers of mail groups:
 
-z: Use the From/Subject of the current article to split as spam.
-Z: Edit the list of spammy headers.
+* z: Use the From/Subject of the current article to split as spam.
+* Z: Edit the list of spammy headers.
 
 Then, for this to work, you have to be using "fancy" split rules, and
 you need to add the following to somewhere near the start of your
